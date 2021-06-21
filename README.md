@@ -23,7 +23,7 @@ In This Application We Use Many UI Elements.This Is For Registration For Jobs.In
 
 
 # Screenshots Of Application For Registration Form
-### This is first page of application for the personal information
+### This is first page of application for the personal information like name,age,date of birth,address,experience,state etc.
 ![1](https://user-images.githubusercontent.com/81640415/122795500-06483b80-d2db-11eb-8914-9bdf54d94368.png)
 
 ### This is second page of application for the profilepic.if the camera is not found then it gives you the alert for camera not found.
